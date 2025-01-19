@@ -1,0 +1,80 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: #D91656;
+}
+.nav {
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    height: 50px;
+}
+.title {
+    font-size: 30px;
+    padding: 7px;
+}
+.Home {
+    padding: 8px;
+    padding-left: 750px;
+}
+.content {
+    padding: 8px;
+    padding-left: 15px;
+}
+.About {
+    padding: 8px;
+    padding-left: 15px;
+}
+.Contact {
+    padding: 8px;
+    padding-left: 15px;
+}
+.main {
+    display: flex;
+    margin: 20px;
+    height: 300px;
+    width: 350px;
+    align-content: center;
+    margin-left: 60px;
+    padding: 20px;
+}
+.xyz {
+    display: flex;
+    margin: 20px;
+    height: 300px;
+    width: 360px;
+    align-content: center;
+    flex-direction: column;
+    background-color: #640D5F;
+}
+.img {
+    align-content: center;
+    margin: 5px;
+    height: 280px;
+    width: 330px;
+}
+.text {
+    display: flex;
+    margin: 2px;
+    padding-left: 10px;
+    color: #FFB200;
+}
+.img1 {
+    align-content: center;
+    margin-left: 5px;
+    height: 280px;
+    width: 335px;
+}
+.footer {
+    background-color: black;
+    color: white;
+}
+.real {
+    margin: 50px;
+    border: 8px solid black;
+}
